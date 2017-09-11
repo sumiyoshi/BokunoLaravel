@@ -11,8 +11,6 @@ php artisan migrate
 php artisan migrate:refresh --seed
 
 npm install
-npm run lib
-npm run b
 ```
 
 ## start server
